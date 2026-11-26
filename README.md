@@ -34,7 +34,6 @@
 <body>
   <h1>Training Services Analytics – Regional &amp; Course Revenue</h1>
   <p><strong>GitHub Repository:</strong> <code>Training-Services-Regional-Revenue-Analytics</code></p>
-  <p><strong>Source File:</strong> Shakthi shree J PBIX Assessment - 1 (Page 1 of 2)</p>
 
   <div class="card">
     <h2>Project Overview</h2>
